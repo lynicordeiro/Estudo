@@ -25,4 +25,4 @@ Para executar os testes localmente, siga estas etapas:
 Quando você envia um push ou pull request para o repositório, o GitHub Actions é acionado automaticamente. Ele verifica se há novas alterações na branch `main`, constrói o projeto, executa os testes automatizados e, se todos os testes passarem com sucesso, implanta a aplicação no ambiente especificado.
 
 Configuração da pipeline de CI/CD, arquivo `https://github.com/lynicordeiro/Estudo/blob/main/.github/workflows/teste.yml`
-Execução da pipeline, `https://github.com/lynicordeiro/Estudo/actions/runs/9227426322/job/25389346869`
+Execução da pipeline, `https://github.com/lynicordeiro/Estudo/actions/runs/9256511922/job/25462623979`
